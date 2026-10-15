@@ -22,7 +22,7 @@ AI Agent의 기본 개념을 이해하고, 명확한 프롬프트로 업무를 �
 | 순서 | 주제 | 상태 |
 |---|---|---|
 | 00 | [학습 시작 안내](./00_getting_started/README.md) | ✅ 공개 |
-| 01 | [AI Agent 기본 개념](./01_agent_concepts/README.md) | 📝 구성 예정 |
+| 01 | [AI Agent 기본 개념](./01_agent_concepts/README.md) · [01-01. AI Agent란 무엇인가?](./01_agent_concepts/01_what_is_ai_agent.md) | ✅ 첫 교안 공개 |
 | 02 | [프롬프트 작성 기초](./02_prompt_engineering/README.md) | 📝 구성 예정 |
 | 03 | 도구 활용 (ChatGPT·Codex·VS Code·GitHub) | 추후 추가 |
 | 04 | 문서·데이터 업무 활용 | 추후 추가 |
@@ -30,7 +30,7 @@ AI Agent의 기본 개념을 이해하고, 명확한 프롬프트로 업무를 �
 | 06 | 프로젝트 (예: V2G 분석) | 추후 추가 |
 | 07 | 안전성·결과 평가 | 추후 추가 |
 
-> 교육 자료는 단계별로 작성합니다. 현재는 **학습 시작 안내와 각 장의 안내 페이지**만 공개합니다.
+> 교육 자료는 단계별로 작성합니다. 현재 **학습 시작 안내와 첫 번째 AI Agent 기초 교안**을 공개했습니다.
 
 ## ✅ 학습 원칙
 
