@@ -32,6 +32,18 @@ AI Agent의 기본 개념을 이해하고, 명확한 프롬프트로 업무를 �
 
 > 교육 자료는 단계별로 작성합니다. 현재 **학습 시작 안내와 첫 번째 AI Agent 기초 교안**을 공개했습니다.
 
+## 📖 참고 자료
+
+### 생활과 배움에 쓰는 AI 도구 안내서
+
+일반 사용자와 학생을 위한 **9개 분야·18개 도구의 무료/유료 비교**, 추천 활용법, 학생 프로젝트, 요청문 예시, **7일 무료 실습 로드맵**을 정리했습니다.
+
+- [웹에서 안내서 읽기](./references/ai-tools-guide/README.md)
+- [한국어 PDF 미리보기 · 16쪽](./references/ai-tools-guide/AI_Tools_Korean_Guide_2026-10.pdf)
+- [PDF 바로 다운로드](https://github.com/star-kbin/AI-Agent-Learning/raw/refs/heads/main/references/ai-tools-guide/AI_Tools_Korean_Guide_2026-10.pdf)
+
+**정보 확인일: 2026-10-16.** 가격·기능·무료 한도는 변경될 수 있습니다. 실제 사용·결제 전 안내서의 공식 사이트 링크에서 최신 조건을 확인하세요.
+
 ## ✅ 학습 원칙
 
 1. **문제 정의:** 무엇을, 왜 해야 하는지 분명히 합니다.
