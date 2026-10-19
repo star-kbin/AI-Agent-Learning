@@ -19,6 +19,6 @@ AI Agent의 정의와 작동 원리를 이해하는 입문 과정입니다. **�
 
 ## ➡️ 다음 단계
 
-[02. 프롬프트 작성 기초](../02_prompt_engineering/README.md) (상세 교안 준비 예정)
+[02. 프롬프트 작성 기초](../02_prompt_engineering/README.md) (5개 학습 교안 공개)
 
 [← 저장소 첫 화면](../README.md)
