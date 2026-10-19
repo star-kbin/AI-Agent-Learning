@@ -18,7 +18,8 @@ GitHub 웹 화면에서 저장소·파일·변경 기록·Pull Request(PR)를 �
 1. [GitHub](https://github.com/)에 로그인합니다.
 2. 연습용 **별도의 새 저장소**를 만들어 공개해도 되는 내용만 넣습니다.
 3. **Add file → Create new file**에서 `README.md`를 만듭니다.
-4. 목표·파일 구성·실행 방법·확인 기준을 4개 항목으로 작성합니다.
+4. 목표·파일 구성·실행 방법·확인 기준을 4개 항목으로 작성합니다. 예: “가상 빵가게 3일 기록, 판매 85개·매출 170,000원 검산”.
+   - 데이터는 [sample.csv](../examples/bakery_sales/sample.csv)를 사용하고 [열 뜻과 가정](../examples/bakery_sales/README.md)을 README에 함께 적습니다.
 5. 'Commit changes'를 눌러 변경 이유를 적고 저장합니다.
 6. 저장소 첫 화면으로 돌아가 README 표시를 확인합니다.
 7. **History/Commits**에서 변경 이력을 확인합니다.
@@ -36,3 +37,4 @@ GitHub 웹 화면에서 저장소·파일·변경 기록·Pull Request(PR)를 �
 
 ## 제출물
 README 링크, commit 링크 또는 기록, 변경 이유 2문장, 공개 전 확인한 보안 항목.
+

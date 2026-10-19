@@ -20,9 +20,9 @@
 - **코딩 없이 학습:** ChatGPT + GitHub 웹 브라우저만으로도 시작 가능
 
 ## 3. 도구 결합의 예
-'CSV 판매 데이터를 요약하는 과제'를 수행한다고 가정합니다.
+'[빵가게 3일 판매 기록](../examples/bakery_sales/README.md)을 요약하는 과제'를 수행한다고 가정합니다.
 1. ChatGPT에 목표·입력 열·검증 조건을 설명하고 실행 계획을 받습니다.
-2. VS Code에서 `README.md`와 가상의 CSV 파일을 확인합니다.
+2. VS Code에서 `README.md`와 가상의 CSV 파일을 확인합니다. 수량은 개, 가격·매출은 원이며 판매 합계는 85개, 매출은 170,000원입니다.
 3. Codex에 **먼저 변경 계획을 제시하고 승인된 파일만 수정**하도록 요청합니다.
 4. 직접 코드 실행 결과와 예상 계산을 대조합니다.
 5. GitHub에 코드·README를 올리고 변경 이유를 기록합니다.
@@ -51,3 +51,4 @@
 - [OpenAI Codex 문서](https://developers.openai.com/codex/)
 - [VS Code 문서](https://code.visualstudio.com/docs)
 - [GitHub Docs](https://docs.github.com/)
+

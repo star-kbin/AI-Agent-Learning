@@ -13,9 +13,10 @@ VS Code에서 폴더·Markdown 파일을 만들고 프로젝트 구조를 이해
 
 ```markdown
 # 나의 첫 AI 실습
-목표: 가상의 데이터를 바탕으로 분석 계획을 작성한다.
-입력: date, kwh, price_per_kwh
-완료 조건: 입력 열과 검증 항목이 README에 설명되어 있다.
+목표: 가상 빵가게의 판매량과 매출을 정리한다.
+입력: 날짜, 준비수량, 주문수량, 판매수량, 개당가격
+단위: 수량은 개, 가격과 매출은 원
+완료 조건: 판매 합계 85개와 매출 170,000원을 계산식으로 확인한다.
 ```
 
 ## 2. 추천 폴더 구조
@@ -30,7 +31,7 @@ my-ai-practice/
     └── review.md
 ```
 
-데이터 파일은 임의로 작성한 **가상 데이터**만 사용합니다.
+데이터는 [공통 sample.csv](../examples/bakery_sales/sample.csv)를 내려받아 `data/sample.csv`로 저장하세요. [열 뜻·예상 정답](../examples/bakery_sales/README.md)을 함께 확인합니다. 교육용 가상값이며, CSV는 쉼표로 칸을 구분하는 텍스트 파일입니다. 스프레드시트에서 한글이 깨지면 UTF-8 인코딩으로 가져오세요.
 
 ## 3. VS Code에서 할 수 있는 일
 - Explorer: 폴더와 파일 보기
@@ -50,3 +51,4 @@ my-ai-practice/
 - [ ] 데이터를 공개해도 되는지 확인했다.
 
 관련 학습: [Python 개발환경 구축](https://github.com/star-kbin/Python-Learning)
+
