@@ -24,13 +24,13 @@ AI Agent의 기본 개념을 이해하고, 명확한 프롬프트로 업무를 �
 | 00 | [학습 시작 안내](./00_getting_started/README.md) | ✅ 공개 |
 | 01 | [AI Agent 기본 개념](./01_agent_concepts/README.md) · [01-01. AI Agent란 무엇인가?](./01_agent_concepts/01_what_is_ai_agent.md) | ✅ 첫 교안 공개 |
 | 02 | [프롬프트 엔지니어링: 기초·실습·평가](./02_prompt_engineering/README.md) | ✅ 5개 교안 공개 |
-| 03 | 도구 활용 (ChatGPT·Codex·VS Code·GitHub) | 추후 추가 |
+| 03 | [AI 도구 활용 (ChatGPT·Codex·VS Code·GitHub)](./03_tools/README.md) | ✅ 6개 교안 공개 |
 | 04 | 문서·데이터 업무 활용 | 추후 추가 |
 | 05 | AI 협업 코딩 및 코드 검증 | 추후 추가 |
 | 06 | 프로젝트 (예: V2G 분석) | 추후 추가 |
 | 07 | 안전성·결과 평가 | 추후 추가 |
 
-> 교육 자료는 단계별로 작성합니다. 현재 **학습 시작 안내, AI Agent 기초 개념, 프롬프트 엔지니어링 5개 교안**을 공개했습니다.
+> 교육 자료는 단계별로 작성합니다. 현재 **학습 시작 안내, AI Agent 기초 개념, 프롬프트 엔지니어링 5개 교안, AI 도구 활용 6개 교안**을 공개했습니다.
 
 ## 📖 참고 자료
 
